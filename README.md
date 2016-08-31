@@ -9,7 +9,7 @@ Clone this repo.
 To setup dev server:
 
 `npm install`
-`npm run watch`
+`npm start`
 
 To build:
 
