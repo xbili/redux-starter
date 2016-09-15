@@ -7,7 +7,7 @@ export const HomeView = () => (
     <p>HomeView represent</p>
     <Link to="/profile">Visit Profile</Link>
   </div>
-);
+)
 
 export default HomeView
 
