@@ -9,6 +9,7 @@ Clone this repo.
 To setup dev server:
 
 `npm install`
+
 `npm start`
 
 To build:
